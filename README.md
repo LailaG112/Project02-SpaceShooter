@@ -1,9 +1,9 @@
 # Project02-SpaceShooter
 
 # Project Name
-Context and date
+Space Shooter Game 9/23/24
 Description
-## Implementation
+## Implementation List Everything you did for extra points!
 
 ## References
 ## Future Development
